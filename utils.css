@@ -1,0 +1,30 @@
+.flex{
+    display: flex;
+}
+.container{
+    /* max-width: 80vw; */
+    padding: 0 10vw;
+    /* margin: auto; */
+    /* background-color: black; */
+}
+.item-center{
+ align-items: center;
+}
+.justify-center{
+ justify-content: center;
+}
+.space-between{
+    justify-content: space-between;
+}
+.upper-case{
+    text-transform: uppercase;
+}
+.semi-bold{
+    font-weight: bold;
+    color: rgb(59, 59, 59);
+}
+
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
